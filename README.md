@@ -42,10 +42,6 @@ pip install numpy matplotlib pillow pandas
   <img width="700"  src="res/版权声明.png">
 </p> 
 
- 
-**课程大纲:**
-![课程介绍](res/outline.png)
-
 
 
 
